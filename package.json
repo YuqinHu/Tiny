@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/YuqinHu/Tiny/issues"
   },
-  "homepage": "https://github.com/YuqinHu/Tiny#readme"
+  "homepage": "https://github.com/YuqinHu/Tiny#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
